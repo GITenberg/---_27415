@@ -1,0 +1,28 @@
+_repo: '---_27415'
+_version: 0.1.0
+alternative_title: Sha zi bao
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lingyanqiaozi
+    aliases:
+    - 靈岩樵子
+    - 靈巖樵子
+    gutenberg_agent_id: '32680'
+    url: http://www.gutenberg.org/2009/agents/32680
+description: ''
+gutenberg_issued: '2008-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27415'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction'
+- !lcc 'PL'
+title: 殺子報
+url: http://www.gutenberg.org/ebooks/27415
